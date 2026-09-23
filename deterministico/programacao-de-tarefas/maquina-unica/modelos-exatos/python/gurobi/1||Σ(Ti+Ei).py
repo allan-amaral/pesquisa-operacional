@@ -102,3 +102,4 @@ else:
 
 # Referências
 # ARENALES, Marcos Nereu et al. Pesquisa Operacional. Rio de Janeiro: Elsevier, 2007.
+# GUROBI OPTIMIZATION, LLC. Gurobi Optimizer: versão 13.0. Beaverton: Gurobi Optimization, 2025. Disponível em: https://www.gurobi.com. Acesso em: 23 set. 2026.
