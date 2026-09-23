@@ -5,3 +5,5 @@ Para melhor organização, os nomes dos arquivos seguem a notação α | β | γ
 - **α**: Ambiente de máquinas  
 - **β**: Características das tarefas e restrições  
 - **γ**: Critério de otimização
+
+As instâncias são lidas de arquivos CSV e os resultados também são salvos em CSV.
