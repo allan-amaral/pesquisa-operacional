@@ -2,7 +2,7 @@
 
 Esta pasta reúne implementações, experimentos computacionais, modelos matemáticos e materiais de apoio relacionados à área de Pesquisa Operacional.
 
-Os conteúdos estão organizados de acordo com os problemas estudados, tais como:
+Os conteúdos estão organizados de acordo com os problemas estudados, por exemplo:
 
 - Problemas de Cobertura
 - Problemas de Corte e Empacotamento
